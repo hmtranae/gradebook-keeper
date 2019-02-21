@@ -26,6 +26,9 @@
         <e p="Types" t="Include">
           <e p="ReferenceTypeTests.cs" t="Include" />
         </e>
+        <e p="TypesTest" t="Include">
+          <e p="ReferenceTypeTests.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />

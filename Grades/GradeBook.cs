@@ -30,6 +30,7 @@ namespace Grades
             grades.Add(grade);
         }
 
+        // public class members are uppercase while private are lowercased
         public string Name;
 
         private List<float> grades;

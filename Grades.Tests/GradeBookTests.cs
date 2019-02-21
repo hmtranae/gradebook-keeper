@@ -14,6 +14,7 @@
 //}
 
 using NUnit.Framework;
+// reference to use the unit testing NUnit
 
 namespace Grades.Tests
 {
@@ -45,11 +46,14 @@ namespace Grades.Tests
         public void ComputesAverageGrade()
         {
             GradeBook book = new GradeBook();
-            book.AddGrade(10);
-            book.AddGrade(90);
+            book.AddGrade(91);
+            book.AddGrade(89.5f);
+            book.AddGrade(75);
 
             GradeStatistics results = book.ComputeStatistics();
-            Assert.AreEqual(50, results.AverageGrade);
+            // can specify a delta value after Assert.AreEqual
+            // Below case: expected and actual must be within 0.01 of each other
+            Assert.AreEqual(85.16, results.AverageGrade, 0.01);
         }
     }
 }
