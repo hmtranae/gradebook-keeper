@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,12 +208,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550723871318</updated>
       <workItem from="1550723878681" duration="1109000" />
-      <workItem from="1550725031774" duration="13372000" />
+      <workItem from="1550725031774" duration="13686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14481000" />
+    <option name="totallyTimeSpent" value="14795000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,7 +245,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32918397" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.494852" visible="true" weight="0.31120333" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.494852" weight="0.31120333" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49867374" weight="0.4163209" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.25596818" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
