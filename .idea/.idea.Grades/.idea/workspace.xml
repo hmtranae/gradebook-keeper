@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/riderModule.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Grades" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -168,12 +162,12 @@
       <workItem from="1550723878681" duration="1109000" />
       <workItem from="1550725031774" duration="18127000" />
       <workItem from="1550775701621" duration="289000" />
-      <workItem from="1550776055452" duration="434000" />
+      <workItem from="1550776055452" duration="712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19959000" />
+    <option name="totallyTimeSpent" value="20237000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,7 +181,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-10" width="1600" height="859" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.17889318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.17889318" />
       <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.17889318" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -202,18 +196,18 @@
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4980695" weight="0.32863188" />
       <window_info anchor="bottom" id="NuGet" order="8" sideWeight="0.7432432" weight="0.32863188" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.65894467" visible="true" weight="0.32863188" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.65894467" weight="0.32863188" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.4929215" weight="0.30888575" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.496139" weight="0.41466856" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.496139" visible="true" weight="0.41466856" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.503861" side_tool="true" weight="0.41466856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Json Parser" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32947233" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32947233" />
+      <window_info anchor="right" id="Json Parser" order="6" weight="0.32947233" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="552">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
     </entry>
