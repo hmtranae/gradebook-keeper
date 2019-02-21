@@ -4,6 +4,7 @@
     <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Grades.1550110347.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p=".git/info/exclude" t="IncludeRecursive" />
       <e p="Grades" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="GradeBook.cs" t="Include" />

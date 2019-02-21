@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/riderModule.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,62 +18,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Grades" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grades/GradeBook.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
-              <folding>
-                <marker date="1550760180963" expanded="false" signature="6:47" ph="..." />
-                <marker date="1550760180963" expanded="true" signature="65:916" ph="{...}" />
-                <marker date="1550760180963" expanded="true" signature="94:914" ph="{...}" />
-                <marker date="1550760180963" expanded="true" signature="127:187" ph="{...}" />
-                <marker date="1550760180963" expanded="true" signature="239:673" ph="{...}" />
-                <marker date="1550760180963" expanded="true" signature="380:584" ph="{...}" />
-                <marker date="1550760180963" expanded="true" signature="716:767" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <marker date="1550774280319" expanded="true" signature="6:36" ph="..." />
-                <marker date="1550774280319" expanded="true" signature="116:2471" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="163:2469" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="213:246" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="311:458" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="522:687" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="755:884" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="1095:1140" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="1212:1419" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="1471:1712" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="1494:1663" ph="/* the line below will not change the reference of book1 or book2 ... */" />
-                <marker date="1550774280319" expanded="true" signature="1785:2013" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="2083:2270" ph="{...}" />
-                <marker date="1550774280319" expanded="true" signature="2331:2463" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grades/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-              <folding>
-                <marker date="1550762184806" expanded="false" signature="6:115" ph="..." />
-                <marker date="1550762184806" expanded="true" signature="133:585" ph="{...}" />
-                <marker date="1550762184806" expanded="true" signature="153:583" ph="{...}" />
-                <marker date="1550762184806" expanded="true" signature="200:577" ph="{...}" />
-              </folding>
+            <state relative-caret-position="156">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -95,10 +57,11 @@
         <option value="$PROJECT_DIR$/Grades/GradeBook.cs" />
         <option value="$PROJECT_DIR$/Grades/Program.cs" />
         <option value="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="800" />
     <option name="y" value="-10" />
     <option name="width" value="800" />
@@ -112,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -119,29 +83,12 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Grades" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Grades" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Grades" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Grades" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Grades.Tests" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Grades" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Grades.Tests" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TypesTest" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,7 +98,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -219,12 +166,14 @@
       <option name="presentableId" value="Default" />
       <updated>1550723871318</updated>
       <workItem from="1550723878681" duration="1109000" />
-      <workItem from="1550725031774" duration="16845000" />
+      <workItem from="1550725031774" duration="18127000" />
+      <workItem from="1550775701621" duration="289000" />
+      <workItem from="1550776055452" duration="434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17954000" />
+    <option name="totallyTimeSpent" value="19959000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -236,35 +185,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="-10" width="800" height="859" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="-10" width="1600" height="859" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5755968" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49789914" visible="true" weight="0.17889318" />
+      <window_info id="Structure" order="1" sideWeight="0.5021008" side_tool="true" weight="0.17889318" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="0" sideWeight="0.496139" weight="0.32918397" />
+      <window_info id="Favorites" order="4" sideWeight="0.5021008" side_tool="true" weight="0.17889318" />
+      <window_info anchor="bottom" id="Build" order="0" sideWeight="0.496139" weight="0.32863188" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4967825" weight="0.32918397" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.498713" weight="0.32965517" />
-      <window_info anchor="bottom" id="NuGet" order="8" sideWeight="0.74403185" weight="0.32965517" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4980695" weight="0.32863188" />
+      <window_info anchor="bottom" id="NuGet" order="8" sideWeight="0.7432432" weight="0.32863188" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32918397" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.65894467" visible="true" weight="0.32863188" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.494852" weight="0.31120333" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49867374" visible="true" weight="0.4163209" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.25596818" side_tool="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.4929215" weight="0.30888575" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.496139" weight="0.41466856" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.503861" side_tool="true" weight="0.41466856" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Errors In Solution" order="4" />
       <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Json Parser" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,6 +246,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
@@ -312,13 +275,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grades.Tests/GradeBook.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades.Tests/GradeBook.cs" />
     <entry file="file://$PROJECT_DIR$/Grades/GradeStatistics.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -371,35 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grades/GradeBook.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
-          <folding>
-            <marker date="1550760180963" expanded="false" signature="6:47" ph="..." />
-            <marker date="1550760180963" expanded="true" signature="65:916" ph="{...}" />
-            <marker date="1550760180963" expanded="true" signature="94:914" ph="{...}" />
-            <marker date="1550760180963" expanded="true" signature="127:187" ph="{...}" />
-            <marker date="1550760180963" expanded="true" signature="239:673" ph="{...}" />
-            <marker date="1550760180963" expanded="true" signature="380:584" ph="{...}" />
-            <marker date="1550760180963" expanded="true" signature="716:767" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grades/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <marker date="1550762184806" expanded="false" signature="6:115" ph="..." />
-            <marker date="1550762184806" expanded="true" signature="133:585" ph="{...}" />
-            <marker date="1550762184806" expanded="true" signature="153:583" ph="{...}" />
-            <marker date="1550762184806" expanded="true" signature="200:577" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04750267-503A-43E5-929C-1D1BA19DAF3E/6f/811a31d6/StringComparison.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -414,26 +342,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Grades/GradeBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1550760180963" expanded="false" signature="6:47" ph="..." />
+            <marker date="1550760180963" expanded="true" signature="65:916" ph="{...}" />
+            <marker date="1550760180963" expanded="true" signature="94:914" ph="{...}" />
+            <marker date="1550760180963" expanded="true" signature="127:187" ph="{...}" />
+            <marker date="1550760180963" expanded="true" signature="239:673" ph="{...}" />
+            <marker date="1550760180963" expanded="true" signature="380:584" ph="{...}" />
+            <marker date="1550760180963" expanded="true" signature="716:767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades.Tests/Grades.Tests.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="161">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <marker date="1550774280319" expanded="true" signature="6:36" ph="..." />
-            <marker date="1550774280319" expanded="true" signature="116:2471" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="163:2469" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="213:246" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="311:458" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="522:687" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="755:884" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="1095:1140" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="1212:1419" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="1471:1712" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="1494:1663" ph="/* the line below will not change the reference of book1 or book2 ... */" />
-            <marker date="1550774280319" expanded="true" signature="1785:2013" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="2083:2270" ph="{...}" />
-            <marker date="1550774280319" expanded="true" signature="2331:2463" ph="{...}" />
+            <marker date="1550774353894" expanded="false" signature="6:36" ph="..." />
+            <marker date="1550774353894" expanded="true" signature="116:2706" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="163:2704" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="218:393" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="441:492" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="546:693" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="757:922" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="990:1119" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="1330:1375" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="1447:1654" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="1706:1947" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="1729:1898" ph="/* the line below will not change the reference of book1 or book2 ... */" />
+            <marker date="1550774353894" expanded="true" signature="2020:2248" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="2318:2505" ph="{...}" />
+            <marker date="1550774353894" expanded="true" signature="2566:2698" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grades/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1550762184806" expanded="false" signature="6:115" ph="..." />
+            <marker date="1550762184806" expanded="true" signature="133:585" ph="{...}" />
+            <marker date="1550762184806" expanded="true" signature="153:583" ph="{...}" />
+            <marker date="1550762184806" expanded="true" signature="200:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
