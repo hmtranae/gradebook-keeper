@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="" />
+    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +33,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="160">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="26" />
               <folding>
-                <marker date="1550773306806" expanded="true" signature="6:36" ph="..." />
-                <marker date="1550773306806" expanded="true" signature="116:1944" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="163:1942" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="228:357" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="568:613" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="685:892" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="944:1185" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="967:1136" ph="/* the line below will not change the reference of book1 or book2 ... */" />
-                <marker date="1550773306806" expanded="true" signature="1258:1486" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="1556:1743" ph="{...}" />
-                <marker date="1550773306806" expanded="true" signature="1804:1936" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="6:36" ph="..." />
+                <marker date="1550774280319" expanded="true" signature="116:2471" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="163:2469" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="213:246" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="311:458" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="522:687" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="755:884" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="1095:1140" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="1212:1419" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="1471:1712" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="1494:1663" ph="/* the line below will not change the reference of book1 or book2 ... */" />
+                <marker date="1550774280319" expanded="true" signature="1785:2013" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="2083:2270" ph="{...}" />
+                <marker date="1550774280319" expanded="true" signature="2331:2463" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -71,6 +76,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04750267-503A-43E5-929C-1D1BA19DAF3E/c4/91bdcf14/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grades.Tests/GradeBookTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grades/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grades.Tests/Types/ReferenceTypeTests.cs" root0="FORCE_HIGHLIGHTING" />
@@ -213,12 +219,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550723871318</updated>
       <workItem from="1550723878681" duration="1109000" />
-      <workItem from="1550725031774" duration="16236000" />
+      <workItem from="1550725031774" duration="16845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17345000" />
+    <option name="totallyTimeSpent" value="17954000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,7 +257,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32918397" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.494852" weight="0.31120333" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49867374" weight="0.4163209" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49867374" visible="true" weight="0.4163209" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.25596818" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -401,22 +407,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/04750267-503A-43E5-929C-1D1BA19DAF3E/c4/91bdcf14/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="160">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="26" />
           <folding>
-            <marker date="1550773306806" expanded="true" signature="6:36" ph="..." />
-            <marker date="1550773306806" expanded="true" signature="116:1944" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="163:1942" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="228:357" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="568:613" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="685:892" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="944:1185" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="967:1136" ph="/* the line below will not change the reference of book1 or book2 ... */" />
-            <marker date="1550773306806" expanded="true" signature="1258:1486" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="1556:1743" ph="{...}" />
-            <marker date="1550773306806" expanded="true" signature="1804:1936" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="6:36" ph="..." />
+            <marker date="1550774280319" expanded="true" signature="116:2471" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="163:2469" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="213:246" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="311:458" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="522:687" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="755:884" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="1095:1140" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="1212:1419" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="1471:1712" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="1494:1663" ph="/* the line below will not change the reference of book1 or book2 ... */" />
+            <marker date="1550774280319" expanded="true" signature="1785:2013" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="2083:2270" ph="{...}" />
+            <marker date="1550774280319" expanded="true" signature="2331:2463" ph="{...}" />
           </folding>
         </state>
       </provider>
