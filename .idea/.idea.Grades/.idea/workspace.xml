@@ -31,15 +31,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="160">
+              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
               <folding>
-                <marker date="1550770706840" expanded="true" signature="6:36" ph="..." />
-                <marker date="1550770706840" expanded="true" signature="116:919" ph="{...}" />
-                <marker date="1550770706840" expanded="true" signature="172:917" ph="{...}" />
-                <marker date="1550770706840" expanded="true" signature="233:461" ph="{...}" />
-                <marker date="1550770706840" expanded="true" signature="531:718" ph="{...}" />
-                <marker date="1550770706840" expanded="true" signature="779:911" ph="{...}" />
+                <marker date="1550771231427" expanded="true" signature="6:36" ph="..." />
+                <marker date="1550771231427" expanded="true" signature="116:1309" ph="{...}" />
+                <marker date="1550771231427" expanded="true" signature="163:1307" ph="{...}" />
+                <marker date="1550771231427" expanded="true" signature="232:439" ph="{...}" />
+                <marker date="1550771231427" expanded="true" signature="491:550" ph="{...}" />
+                <marker date="1550771231427" expanded="true" signature="623:851" ph="{...}" />
+                <marker date="1550771231427" expanded="true" signature="921:1108" ph="{...}" />
+                <marker date="1550771231427" expanded="true" signature="1169:1301" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -208,12 +210,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550723871318</updated>
       <workItem from="1550723878681" duration="1109000" />
-      <workItem from="1550725031774" duration="13686000" />
+      <workItem from="1550725031774" duration="14272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14795000" />
+    <option name="totallyTimeSpent" value="15381000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,8 +227,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="-10" width="800" height="859" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="-10" width="1600" height="859" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5755968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -246,7 +247,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32918397" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.494852" weight="0.31120333" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49867374" weight="0.4163209" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49867374" visible="true" weight="0.4163209" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.25596818" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -398,15 +399,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="160">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding>
-            <marker date="1550770706840" expanded="true" signature="6:36" ph="..." />
-            <marker date="1550770706840" expanded="true" signature="116:919" ph="{...}" />
-            <marker date="1550770706840" expanded="true" signature="172:917" ph="{...}" />
-            <marker date="1550770706840" expanded="true" signature="233:461" ph="{...}" />
-            <marker date="1550770706840" expanded="true" signature="531:718" ph="{...}" />
-            <marker date="1550770706840" expanded="true" signature="779:911" ph="{...}" />
+            <marker date="1550771231427" expanded="true" signature="6:36" ph="..." />
+            <marker date="1550771231427" expanded="true" signature="116:1309" ph="{...}" />
+            <marker date="1550771231427" expanded="true" signature="163:1307" ph="{...}" />
+            <marker date="1550771231427" expanded="true" signature="232:439" ph="{...}" />
+            <marker date="1550771231427" expanded="true" signature="491:550" ph="{...}" />
+            <marker date="1550771231427" expanded="true" signature="623:851" ph="{...}" />
+            <marker date="1550771231427" expanded="true" signature="921:1108" ph="{...}" />
+            <marker date="1550771231427" expanded="true" signature="1169:1301" ph="{...}" />
           </folding>
         </state>
       </provider>

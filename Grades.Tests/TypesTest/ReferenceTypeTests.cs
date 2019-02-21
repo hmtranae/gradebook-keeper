@@ -8,6 +8,20 @@ namespace Grades.Tests.TypesTest
     public class TypeTests
     {
         [Test]
+        public void ValueTypesPassByValue()
+        {
+            int x = 46;
+            IncrementNumber(x);
+            
+            Assert.AreEqual(46, x);
+        }
+
+        private void IncrementNumber(int number)
+        {
+            number += 1;
+        }
+        
+        [Test]
         public void ReferenceTypesPassByValue()
         {
             GradeBook book1 = new GradeBook();
