@@ -1,0 +1,14 @@
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/Grades.Tests.dll
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/Grades.Tests.pdb
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/Grades.exe
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/Grades.pdb
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/Grades.exe.config
+/home/hmtranae/Downloads/Grades/Grades.Tests/obj/Debug/Grades.Tests.csprojAssemblyReference.cache
+/home/hmtranae/Downloads/Grades/Grades.Tests/obj/Debug/Grades.Tests.csproj.CoreCompileInputs.cache
+/home/hmtranae/Downloads/Grades/Grades.Tests/obj/Debug/Grades.Tests.csproj.CopyComplete
+/home/hmtranae/Downloads/Grades/Grades.Tests/obj/Debug/Grades.Tests.dll
+/home/hmtranae/Downloads/Grades/Grades.Tests/obj/Debug/Grades.Tests.pdb
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/nunit.framework.dll
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/nunit.framework.pdb
+/home/hmtranae/Downloads/Grades/Grades.Tests/bin/Debug/nunit.framework.xml

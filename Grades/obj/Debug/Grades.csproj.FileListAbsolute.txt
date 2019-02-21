@@ -1,0 +1,13 @@
+/home/hmtranae/Downloads/Grades/Grades/bin/Debug/Grades.exe.config
+/home/hmtranae/Downloads/Grades/Grades/bin/Debug/Grades.exe
+/home/hmtranae/Downloads/Grades/Grades/bin/Debug/Grades.pdb
+/home/hmtranae/Downloads/Grades/Grades/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+/home/hmtranae/Downloads/Grades/Grades/obj/Debug/Grades.csprojAssemblyReference.cache
+/home/hmtranae/Downloads/Grades/Grades/obj/Debug/Grades.exe.config
+/home/hmtranae/Downloads/Grades/Grades/obj/Debug/Grades.csproj.CoreCompileInputs.cache
+/home/hmtranae/Downloads/Grades/Grades/obj/Debug/Grades.csproj.CopyComplete
+/home/hmtranae/Downloads/Grades/Grades/obj/Debug/Grades.exe
+/home/hmtranae/Downloads/Grades/Grades/obj/Debug/Grades.pdb
+/home/hmtranae/Downloads/Grades/Grades/bin/Debug/nunit.framework.dll
+/home/hmtranae/Downloads/Grades/Grades/bin/Debug/nunit.framework.pdb
+/home/hmtranae/Downloads/Grades/Grades/bin/Debug/nunit.framework.xml
