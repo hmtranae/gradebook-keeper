@@ -8,6 +8,24 @@ namespace Grades.Tests.TypesTest
     public class TypeTests
     {
         [Test]
+        public void UppercaseString()
+        {
+            string name = "scott";
+            name = name.ToUpper();
+            
+            Assert.AreEqual("SCOTT", name);
+        }
+        
+        [Test]
+        public void AddDaysToDateTime()
+        {
+            DateTime date = new DateTime(2015, 1, 1);
+            date = date.AddDays(1);
+            
+            Assert.AreEqual(2, date.Day);
+        }
+        
+        [Test]
         public void ValueTypesPassByValue()
         {
             int x = 46;

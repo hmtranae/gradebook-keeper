@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grades/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/bin/Debug/Grades.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Grades.Tests/obj/Debug/Grades.Tests.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="30f0eff4-1d42-4a8e-820b-eaffd2be6304" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +31,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="336">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
-                <marker date="1550773159168" expanded="true" signature="6:36" ph="..." />
-                <marker date="1550773159168" expanded="true" signature="116:1952" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="163:1950" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="228:357" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="568:613" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="685:896" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="952:1193" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="975:1144" ph="/* the line below will not change the reference of book1 or book2 ... */" />
-                <marker date="1550773159168" expanded="true" signature="1266:1494" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="1564:1751" ph="{...}" />
-                <marker date="1550773159168" expanded="true" signature="1812:1944" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="6:36" ph="..." />
+                <marker date="1550773306806" expanded="true" signature="116:1944" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="163:1942" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="228:357" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="568:613" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="685:892" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="944:1185" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="967:1136" ph="/* the line below will not change the reference of book1 or book2 ... */" />
+                <marker date="1550773306806" expanded="true" signature="1258:1486" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="1556:1743" ph="{...}" />
+                <marker date="1550773306806" expanded="true" signature="1804:1936" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -99,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="800" />
     <option name="y" value="-10" />
     <option name="width" value="800" />
@@ -220,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550723871318</updated>
       <workItem from="1550723878681" duration="1109000" />
-      <workItem from="1550725031774" duration="15744000" />
+      <workItem from="1550725031774" duration="16236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16853000" />
+    <option name="totallyTimeSpent" value="17345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,7 +230,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-10" width="1600" height="859" extended-state="6" />
+    <frame x="800" y="-10" width="800" height="859" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5755968" />
@@ -257,7 +250,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32918397" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.494852" visible="true" weight="0.31120333" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.494852" weight="0.31120333" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49867374" weight="0.4163209" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.25596818" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -410,20 +403,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Grades.Tests/TypesTest/ReferenceTypeTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="336">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
-            <marker date="1550773159168" expanded="true" signature="6:36" ph="..." />
-            <marker date="1550773159168" expanded="true" signature="116:1952" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="163:1950" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="228:357" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="568:613" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="685:896" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="952:1193" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="975:1144" ph="/* the line below will not change the reference of book1 or book2 ... */" />
-            <marker date="1550773159168" expanded="true" signature="1266:1494" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="1564:1751" ph="{...}" />
-            <marker date="1550773159168" expanded="true" signature="1812:1944" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="6:36" ph="..." />
+            <marker date="1550773306806" expanded="true" signature="116:1944" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="163:1942" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="228:357" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="568:613" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="685:892" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="944:1185" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="967:1136" ph="/* the line below will not change the reference of book1 or book2 ... */" />
+            <marker date="1550773306806" expanded="true" signature="1258:1486" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="1556:1743" ph="{...}" />
+            <marker date="1550773306806" expanded="true" signature="1804:1936" ph="{...}" />
           </folding>
         </state>
       </provider>
