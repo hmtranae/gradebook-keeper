@@ -40,5 +40,16 @@ namespace Grades.Tests
             GradeStatistics results = book.ComputeStatistics();
             Assert.AreEqual(10, results.LowestGrade);
         }
+
+        [Test]
+        public void ComputesAverageGrade()
+        {
+            GradeBook book = new GradeBook();
+            book.AddGrade(10);
+            book.AddGrade(90);
+
+            GradeStatistics results = book.ComputeStatistics();
+            Assert.AreEqual(50, results.AverageGrade);
+        }
     }
 }
