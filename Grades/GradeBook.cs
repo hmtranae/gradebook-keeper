@@ -5,8 +5,10 @@ namespace Grades
 {
     public class GradeBook
     {
+        // constructor GradeBook() that just sets grades to be a new List of floats
         public GradeBook()
         {
+            _name = "Empty";
             grades = new List<float>();
         }
 
@@ -31,6 +33,7 @@ namespace Grades
         }
 
         // public class members are uppercase while private are lowercased
+        // change Name to be a property instead of a field
         public string Name
         {
             get { return _name; }
@@ -38,13 +41,18 @@ namespace Grades
             {
                 if (!String.IsNullOrEmpty((value)))
                 {
+                    if (_name != value)
+                    {
+                        NameChanged(_name, value);
+                    }
                     _name = value;
                 }
             }
         }
 
+        public NameChangedDelegate NameChanged;
+        
         private string _name;
-
         private List<float> grades;
     }
 }
