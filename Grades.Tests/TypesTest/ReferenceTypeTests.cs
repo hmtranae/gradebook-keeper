@@ -1,3 +1,4 @@
+using System;
 using NUnit.Framework;
 
 // namespace should match the repository name
@@ -6,6 +7,15 @@ namespace Grades.Tests.TypesTest
     [TestFixture]
     public class ReferenceTypeTests
     {
+        [Test]
+        public void StringComparisons()
+        {
+            string name1 = "Scott";
+            string name2 = "scott";
+
+            bool result = String.Equals(name1, name2, StringComparison.InvariantCultureIgnoreCase);
+            Assert.IsTrue(result);
+        }
         [Test]
         public void GradeBookVariablesHoldAReference()
         {
@@ -23,7 +33,7 @@ namespace Grades.Tests.TypesTest
             int x2 = x1;
 
             x1 = 4;
-            Assert.AreEqual(x1, x2);
+            Assert.AreNotEqual(x1, x2);
         }
     }
 }
