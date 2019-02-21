@@ -11,12 +11,13 @@ namespace Grades.Tests.TypesTest
         public void ValueTypesPassByValue()
         {
             int x = 46;
-            IncrementNumber(x);
+            IncrementNumber(ref x);
             
-            Assert.AreEqual(46, x);
+            Assert.AreEqual(47, x);
         }
 
-        private void IncrementNumber(int number)
+        // Doesn't matter what you do to the number inside of the private functon IncrementNumber because changes are only visible inside of IncrementNumber
+        private void IncrementNumber(ref int number)
         {
             number += 1;
         }
@@ -28,11 +29,14 @@ namespace Grades.Tests.TypesTest
             GradeBook book2 = book1;
             
             GiveBookAName(book2);
-            Assert.AreEqual("A GradeBook", book1.Name);
+            Assert.AreEqual("A GradeBook", book2.Name);
         }
 
         private void GiveBookAName(GradeBook book)
         {
+            // the line below will not change the reference of book1 or book2
+            // only the value is taken when the method is called
+            // book = new GradeBook();
             book.Name = "A GradeBook";
         }
         
