@@ -36,7 +36,10 @@ namespace Grades
         // change Name to be a property instead of a field
         public string Name
         {
-            get { return _name; }
+            get
+            {
+                return _name;
+            }
             set
             {
                 if (!String.IsNullOrEmpty((value)))
