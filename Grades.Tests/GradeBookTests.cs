@@ -13,6 +13,7 @@
 //    }
 //}
 
+using System.Reflection;
 using NUnit.Framework;
 // reference to use the unit testing NUnit
 
@@ -21,6 +22,18 @@ namespace Grades.Tests
     [TestFixture]
     public class GradeBookTests
     {
+        [Test]
+        public void LetterGradeDescription()
+        {
+            GradeBook book = new GradeBook();
+            book.AddGrade(60);
+            book.AddGrade(75);
+            book.AddGrade(82);
+            book.AddGrade(94);
+
+            GradeStatistics results = book.ComputeStatistics();
+            Assert.AreEqual("Average", results.Description);
+        }   
         [Test]
         public void ComputeLetterGrade()
         {
@@ -33,8 +46,6 @@ namespace Grades.Tests
             GradeStatistics results = book.ComputeStatistics();
             Assert.AreEqual("C", results.LetterGrade);
         }
-        
-        
         [Test]
         public void ComputesHighestGrade()
         {
