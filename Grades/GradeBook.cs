@@ -4,7 +4,7 @@ using System.IO;
 
 namespace Grades
 {
-    public class GradeBook
+    public class GradeBook : GradeTracker
     {
         // constructor GradeBook() that just sets grades to be a new List of floats
         public GradeBook()
@@ -17,7 +17,7 @@ namespace Grades
         // it's no longer going to use the type of variable to figure out which method to call
         
         // instead, it's going to use the type of object, the type that it sees at runtime
-        public virtual GradeStatistics ComputeStatistics()
+        public override GradeStatistics ComputeStatistics()
         {
             GradeStatistics stats = new GradeStatistics();
 
@@ -33,44 +33,18 @@ namespace Grades
             return stats;
         }
 
-        public void AddGrade(float grade)
+        public override void AddGrade(float grade)
         {
             grades.Add(grade);
         }
 
         // public class members are uppercase while private are lowercased
         // change Name to be a property instead of a field
-        public string Name
-        {
-            get { return _name; }
-            set
-            {
-                if (string.IsNullOrEmpty((value)))
-                {
-                    // ArgumentException is one of many exceptions that .NET framework has
-                    throw new ArgumentException("Name cannot be null or empty.");
-                }
-
-                if (_name != value && NameChanged != null)
-                {
-                    NameChangedEventArgs args = new NameChangedEventArgs();
-                    args.ExistingName = _name;
-                    args.NewName = value;
-                    NameChanged(this, args);
-                }
-
-                _name = value;
-            }
-        }
-
-        public event NameChangedDelegate NameChanged;
-
-        private string _name;
         // protected code can be accessed by code in this class or by derived classes
         protected List<float> grades;
 
         // .NET framework type TextWriter
-        public void WriteGrades(TextWriter destination)
+        public override void WriteGrades(TextWriter destination)
         {
             for (int i = 0; i < grades.Count; i++)
             {
