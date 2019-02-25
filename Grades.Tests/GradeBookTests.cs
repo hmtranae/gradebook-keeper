@@ -25,12 +25,14 @@ namespace Grades.Tests
         [Test]
         public void LetterGradeDescription()
         {
+            // instantiate a new GradeBook and add grades to it using AddGrade method
             GradeBook book = new GradeBook();
             book.AddGrade(60);
             book.AddGrade(75);
             book.AddGrade(82);
             book.AddGrade(94);
 
+            
             GradeStatistics results = book.ComputeStatistics();
             Assert.AreEqual("Average", results.Description);
         }   
