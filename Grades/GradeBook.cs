@@ -13,10 +13,12 @@ namespace Grades
             grades = new List<float>();
         }
 
-        public GradeStatistics ComputeStatistics()
+        // with virtual keyword, when invoke computestatistics through a variable typed as gradebook,
+        // it's no longer going to use the type of variable to figure out which method to call
+        
+        // instead, it's going to use the type of object, the type that it sees at runtime
+        public virtual GradeStatistics ComputeStatistics()
         {
-            Console.WriteLine("GradeBook::ComputeStatistics");
-
             GradeStatistics stats = new GradeStatistics();
 
             float sum = 0;
