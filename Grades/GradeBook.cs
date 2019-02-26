@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
@@ -42,6 +43,11 @@ namespace Grades
         // change Name to be a property instead of a field
         // protected code can be accessed by code in this class or by derived classes
         protected List<float> grades;
+
+        public override IEnumerator GetEnumerator()
+        {
+            return grades.GetEnumerator();
+        }
 
         // .NET framework type TextWriter
         public override void WriteGrades(TextWriter destination)

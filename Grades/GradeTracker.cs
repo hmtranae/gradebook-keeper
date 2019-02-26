@@ -1,4 +1,6 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 
 namespace Grades
@@ -9,6 +11,9 @@ namespace Grades
         public abstract void AddGrade(float grade);
         public abstract GradeStatistics ComputeStatistics();
         public abstract void WriteGrades(TextWriter destination);
+        
+        // need to define this method for enumerating through book because IEnumerable also needs its methods defined
+        public abstract IEnumerator GetEnumerator();
         
         public string Name
         {
