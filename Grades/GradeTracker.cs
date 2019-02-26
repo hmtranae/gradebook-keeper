@@ -4,7 +4,7 @@ using System.IO;
 namespace Grades
 {
     // abstract/pure class details things the user can do without worrying about the implementation
-    public abstract class GradeTracker
+    public abstract class GradeTracker : IGradeTracker
     {
         public abstract void AddGrade(float grade);
         public abstract GradeStatistics ComputeStatistics();
